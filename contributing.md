@@ -4,11 +4,11 @@
   Full-featured console for managing multiple Roblox accounts. Control. Speed. Simplicity.
 </p>
 
-<p align="center">
-  <a href="y.gy/roblox-account-console">
-    <img src="https://img.shields.io/badge/DOWNLOAD-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=FF1744" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-console">
+    <img src="https://img.shields.io/badge/💼_DOWNLOAD_NOW-FF1744?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:6px;">
   v2.1.0 • 4.2 MB • one-click
@@ -75,7 +75,8 @@ The extension is built with privacy as a priority:
 
 ## 🔧 INSTALL
 
-https://github.com/user-attachments/assets/fc8d5d93-1725-4639-8490-3996c18a58e8
+https://github.com/user-attachments/assets/c59825b0-8709-4915-b425-e60083aaeb70
+
 
 ---
 
@@ -119,11 +120,11 @@ A: Go to Roblox → Open DevTools (F12) → Application tab → Cookies → .ROB
 
 ---
 
-<p align="center">
-  <a href="y.gy/roblox-account-console">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=FF1744" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-console">
+    <img src="https://img.shields.io/badge/💼_DOWNLOAD_NOW-FF1744?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:4px;">
   Click above to download the latest version
