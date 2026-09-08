@@ -76,6 +76,7 @@ The extension is built with privacy as a priority:
 ## 🔧 INSTALL
 
 https://github.com/user-attachments/assets/fc8d5d93-1725-4639-8490-3996c18a58e8
+
 ---
 
 ## 🧪 TECH STACK
